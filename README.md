@@ -13,6 +13,5 @@
 - keras
 
 ***
-**I personally deleted some images for the given dataset because i had low-end PC when i creaed it.**
  
  
